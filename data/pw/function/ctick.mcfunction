@@ -1,0 +1,10 @@
+advancement grant @s only pw:anvil
+advancement grant @s only pw:cartograph
+advancement grant @s only pw:craftingtable
+advancement grant @s only pw:echest
+advancement grant @s only pw:enchant
+advancement grant @s only pw:enchbook
+advancement grant @s only pw:grindstone
+advancement grant @s only pw:loom
+advancement grant @s only pw:smith
+advancement grant @s only pw:stonecut
